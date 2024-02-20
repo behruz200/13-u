@@ -1,0 +1,207 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.contayner {
+    width: 1440px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.header_a {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.btn:hover{
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+    transition: 1s ;
+}
+
+.ul {
+    display: flex;
+    gap: 106px;
+    margin-left: 390px;
+    margin-top: 70px;
+}
+
+li {
+    color: darkgray;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+
+li:hover {
+    color: black;
+}
+
+.asuzlar p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.asuzlar h1 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.iconka {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 85px;
+    margin-left: 900px;
+    margin-top: -15px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+}
+
+.asuzlar1 img {
+    margin-top: -130px;
+}
+
+.main_link2 {
+    margin-top: -550px;
+    position: absolute;
+    display: flex;
+    gap: 137px;
+    margin-left: 150px;
+}
+
+.button_link {
+    background-color: #F7515C;
+    width: 207px;
+    height: 78px;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+
+}
+
+.button_link:hover {
+    background-color: transparent;
+    transition: 1s;
+    color: black;
+}
+
+.qaxramon {
+    display: flex;
+    gap: 128px;
+    margin-left: 150px;
+    margin-top: 200px;
+    position: absolute;
+}
+
+.qaxramol_link1 {
+    display: flex;
+    flex-direction: column;
+    gap: 56px;
+}
+
+.qaxramol_link1 p {
+    font-family: "Nunito", sans-serif;
+
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.h h3 {
+    text-shadow: 10px solid black;
+}
+
+.but {
+    width: 230px;
+    height: 78px;
+    font-size: 22px;
+    color: white;
+    background-color: #F7515C;
+}
+
+.but:hover {
+    background-color: transparent;
+    transition: 1s;
+    color: black;
+}
+
+.h1lar1 {}
+
+.img1 {
+    position: absolute;
+}
+
+.img2 {
+    position: absolute;
+    margin-left: 336px;
+}
+
+.img3 {
+    position: absolute;
+    margin-left: 666px;
+}
+
+.img4 {
+    position: absolute;
+    margin-left: 1000px;
+}
+
+.futerdan_oldin {
+    display: flex;
+    margin-top: 900px;
+    gap: 218px;
+    margin-left: 150px;
+}
+
+.btn {
+    width: 240px;
+    height: 90px;
+    margin-top: 50px;
+    background-color: #F7515C;
+    font-size: 22PX;
+    color: #fff;
+}
+.hhhlar{
+    display: flex;
+    gap: 224px;
+    margin-left: 100px;
+    line-height: 31px;
+}
+.hhhlar1{
+    display: flex;
+    gap: 204px;
+    margin-left: 100px;
+
+}
+.hhhlar1 p{
+    line-height: 31px;
+    font-size: 18px;
+}
+.hr {
+    width: 1242px;
+    background-color: #282A30;
+    height: 2px;
+    margin-left: 99px;
+    margin-top: 50px;
+
+}
